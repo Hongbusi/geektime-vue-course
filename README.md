@@ -6,4 +6,4 @@
 
 ### 28｜响应式：万能的面试题，怎么手写响应式系统
 
-- [vue-reactivity](./node/20-vue-reactivity.js)
+- [vue-reactivity](./node/28-vue-reactivity.js)
