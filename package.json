@@ -1,0 +1,24 @@
+{
+  "name": "geektime-vue-course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hongbusi/geektime-vue-course.git"
+  },
+  "keywords": [],
+  "author": "Hongbusi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hongbusi/geektime-vue-course/issues"
+  },
+  "homepage": "https://github.com/Hongbusi/geektime-vue-course#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^16.0.1",
+    "@commitlint/config-conventional": "^16.0.0",
+    "husky": "^7.0.4"
+  }
+}
